@@ -1,6 +1,5 @@
 from excepciones import ReservaError
 
-
 class Reserva:
     """
     Clase Reserva.
